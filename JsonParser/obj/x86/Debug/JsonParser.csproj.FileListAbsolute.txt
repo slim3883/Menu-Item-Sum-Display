@@ -1,0 +1,13 @@
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\bin\Debug\JsonParser.exe
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\bin\Debug\JsonParser.pdb
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\obj\x86\Debug\JsonParser.exe
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\obj\x86\Debug\JsonParser.pdb
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\obj\x86\Debug\JsonParser.csprojResolveAssemblyReference.cache
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\JsonParser\bin\Debug\Microsoft.Practices.Unity.Configuration.xml

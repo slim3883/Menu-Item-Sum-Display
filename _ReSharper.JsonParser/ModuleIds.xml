@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="F55ECE1F-5891-41E8-9727-81BB2D1ADB8D" ModuleId="JsonParser" />
+  <Module PersistentId="C4670EB0-09C3-458A-BE28-D1442FC4740B" ModuleId="UnitTests" />
+</Modules>

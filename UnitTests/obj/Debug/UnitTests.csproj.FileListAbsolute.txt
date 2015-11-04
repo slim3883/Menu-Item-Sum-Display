@@ -1,0 +1,15 @@
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\JsonParser.exe
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\JsonParser.pdb
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\abel m\Desktop\CoinRunner\JsonParser\UnitTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
