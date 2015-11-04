@@ -11,16 +11,14 @@ namespace JsonParser
             {
                 return;
             }
-            var container = InitializeContainer();
-            var displayer = container.Resolve<IDisplayer>();
+            InitializeContainer();
+            var displayer = StaticContainer.Container.Resolve<IDisplayer>();
             displayer.Display(args[0]);
         }
 
-        private static UnityContainer InitializeContainer()
+        private static void InitializeContainer()
         {
-            var container = new UnityContainer();
-            container.RegisterType<IDisplayer, JsonMenuSumDisplayer>();
-            return container;
+            StaticContainer.Container.RegisterType<IDisplayer, JsonMenuSumDisplayer>();
         }
     }
 }
